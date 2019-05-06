@@ -9,8 +9,8 @@
 ##IP模块的工作流程
 ![IP工作流程](https://github.com/qujianbo/linux_server/blob/master/img/IP%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.PNG)
 ##路由表
-![](img/路由表实例.PNG)
-![](img/路由表内容.PNG)
+![](https://github.com/qujianbo/linux_server/blob/master/img/%E8%B7%AF%E7%94%B1%E8%A1%A8%E5%AE%9E%E4%BE%8B.PNG)
+![](https://github.com/qujianbo/linux_server/blob/master/img/%E8%B7%AF%E7%94%B1%E8%A1%A8%E5%86%85%E5%AE%B9.PNG)
 ### 路由表机制 ###
 1. 查找路由表中和数据包的目标IP地址完全匹配的主机IP地址。如果找到，就使用该路由项，没找到则转步骤2
 2. 查找路由表中和数据包的目标IP地址具有相同网路ID的网络IP地址，如果找到，就使用该路由项：没找到则转步骤3
