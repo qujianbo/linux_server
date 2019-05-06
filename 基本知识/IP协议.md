@@ -7,7 +7,7 @@
 - 不可靠
 	是指IP协议不能保证IP数据报准确地到达接收端，多种情况会导致发送失败
 ##IP模块的工作流程
-![IP工作流程](img/IP工作流程.PNG)
+![IP工作流程](https://github.com/qujianbo/linux_server/blob/master/img/IP%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.PNG)
 ##路由表
 ![](img/路由表实例.PNG)
 ![](img/路由表内容.PNG)
